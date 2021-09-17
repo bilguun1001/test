@@ -1,2 +1,2 @@
 # test
-test repo
+git coomon comands
