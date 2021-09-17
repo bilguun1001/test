@@ -1,2 +1,2 @@
 # test
-git coomon comands
+git common comands
